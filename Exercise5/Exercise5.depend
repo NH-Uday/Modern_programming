@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1667952333 source:d:\c++\exercise5\main.cpp
+	<cstdlib>
+	<iostream>
+	<math.h>
+
