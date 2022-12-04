@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1670112974 source:d:\c++\exercise_20\main.cpp
+	<iostream>
+	<string>
+	<locale>
+
